@@ -14,7 +14,10 @@ Week commencing: Jan 10
 
 ### Sync
 
-- TBA
+- Class overview
+- [Intro to UX writing](/assets/ppt/01-writing-skills.pdf)
+- [Ideation breakout](/assets/ideation-breakout.xd)
+
 
 ## Week 02
 Week commencing: Jan 17
@@ -29,7 +32,9 @@ Week commencing: Jan 17
 
 ### Sync
 
--[]()
+- [Design Research](/assets/ppt/design-research.pdf)
+- Skill Tester tutorial (link to be provided)
+- [Reality Check](/assets/reality-check.xd)
 
 ## Week 03
 Week commencing: Jan 24
@@ -43,7 +48,9 @@ Week commencing: Jan 24
 
 ### Sync
 
--[]()
+- [Goals, Motivations, Personas](/assets/goals-motivations-personas.xd)
+- [Usability](/assets/ppt/usability.pdf)
+- Rocket tutorial (link to be provided)
 
 ## Week 04
 Week commencing: Jan 31
@@ -56,7 +63,7 @@ Week commencing: Jan 31
 
 ### Sync
 
--[]()
+-[TBD]()
 
 ## Week 05
 Week commencing: Feb 7
@@ -71,7 +78,7 @@ Week commencing: Feb 7
 
 ### Sync
 
-- []()
+-[TBD]()
 
 ## Week 06
 Week commencing: Feb 14
@@ -84,7 +91,7 @@ Week commencing: Feb 14
 
 ### Sync
 
--[]()
+-[TBD]()
 
 ## Week 07
 Week commencing: Feb 21
@@ -106,7 +113,7 @@ Week commencing: Mar 7
 
 ### Sync
 
--[]()
+-[TBD]()
 
 ## Week 09
 Week commencing: Mar 14
@@ -120,7 +127,7 @@ Week commencing: Mar 14
 
 ### Sync
 
--[]()
+-[TBD]()
 
 ## Week 10
 Week commencing: Mar 21
@@ -134,7 +141,7 @@ Week commencing: Mar 21
 
 ### Sync
 
-- []()
+-[TBD]()
 
 ## Week 11
 Week Commencing: Mar 28
@@ -148,7 +155,7 @@ Week Commencing: Mar 28
 
 ### Sync
 
--[]()
+-[TBD]()
 
 ## Week 12
 Week Commencing: Apr 4
@@ -161,7 +168,7 @@ Week Commencing: Apr 4
 
 ### Sync
 
-- []()
+-[TBD]()
 
 ## Week 13
 Week commencing: Apr 11
@@ -173,7 +180,7 @@ Week commencing: Apr 11
 
 ### Sync
 
-- []()
+-[TBD]()
 
 ## Week 14
 
