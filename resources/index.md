@@ -6,7 +6,7 @@ permalink: /resources/
 
 # IXD Resources
 
-- [Citing Code](cite.md)
+- [Citing Code](_cite.md)
 - [IXD student handbook](http://ixd.sheridancollege.ca/)
 - [Slate tutorials](https://ltsa.sheridancollege.ca/learning-technology-portal/slate-2/students-new-to-slate/)
 - [Replit Sign-on Guide](http://mactech.sheridanc.on.ca/team/mark-galaszkiewicz/replit/)
