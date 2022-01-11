@@ -4,8 +4,6 @@ title: Schedule
 permalink: /schedule/
 ---
 
-# Schedule | IXD Behaviours 
-
 ## Week 01 
 Week commencing: Jan 10
 

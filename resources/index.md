@@ -4,8 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-# IXD Resources
-
 - [Citing Code](_cite.md)
 - [IXD student handbook](http://ixd.sheridancollege.ca/)
 - [Slate tutorials](https://ltsa.sheridancollege.ca/learning-technology-portal/slate-2/students-new-to-slate/)

@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Projects | IXD Behaviours 
 
 All project outlines are listed below.
 
