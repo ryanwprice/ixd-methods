@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# IXD Behaviours
+# Course Overview
 
 **Professor:** Ryan Price     
 **Email:** [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca)
