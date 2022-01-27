@@ -63,7 +63,7 @@ Week commencing: Jan 31
 
 ### Sync
 
--[TBD]()
+-[One-on-one meeting: Project Review](https://outlook.office365.com/owa/calendar/IXDOfficeHours1@sheridanc.onmicrosoft.com/bookings/)
 
 ## Week 05
 Week commencing: Feb 7
@@ -78,7 +78,7 @@ Week commencing: Feb 7
 
 ### Sync
 
--[TBD]()
+- Work period to complete project. Ryan is on-call via Teams.
 
 ## Week 06
 Week commencing: Feb 14
