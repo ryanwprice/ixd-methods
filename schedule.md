@@ -63,7 +63,7 @@ Week commencing: Jan 31
 
 ### Sync
 
--[One-on-one meeting: Project Review](https://outlook.office365.com/owa/calendar/IXDOfficeHours1@sheridanc.onmicrosoft.com/bookings/)
+- [One-on-one meeting: Project Review](https://outlook.office365.com/owa/calendar/IXDOfficeHours1@sheridanc.onmicrosoft.com/bookings/)
 
 ## Week 05
 Week commencing: Feb 7
