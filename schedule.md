@@ -91,13 +91,21 @@ Week commencing: Feb 14
 
 ### Sync
 
--[TBD]()
+- [Don't Make Me Think 2](/assets/ppt/dont-make-me-think-2.pdf)
+- Objects & Arrays (links to be provided)
+
+
 
 ## Week 07
 Week commencing: Feb 21
 
 ### Async
 
+- Due to family day, this will be a catch up week to bring forward any issues and help you create your project.
+
+### Sync
+
+- Please add any questions you have to the Slate discussion (Catch up questions for week 7).
 
 **Reading Week**
 
