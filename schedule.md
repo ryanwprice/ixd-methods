@@ -121,7 +121,10 @@ Week commencing: Mar 7
 
 ### Sync
 
--[TBD]()
+- [Usability Testing](/assets/ppt/usability-testing.pdf)
+- [Preparing for Usability Testing](/assets/preparing-for-user-testing.pdf)
+- [Testing Script](/assets/testing-script.pdf)
+- 'Merica Bucks (links to be provided)
 
 ## Week 09
 Week commencing: Mar 14
