@@ -145,28 +145,29 @@ Week commencing: Mar 21
 
 ### Async
 
-- [Paper Prototype Exercise](/assets/paper-prototype-exercise.xd)
 - [Make an SVG](https://web.microsoftstream.com/video/42781184-3a2a-4668-b5e2-085e6a98f4ba)
 - [Add an SVG to HTML](https://web.microsoftstream.com/video/77f06313-e632-4c13-9a69-da0a30d03e64)
 - [Make an SVG Interactive](https://web.microsoftstream.com/video/3715ce8b-c11e-4262-8cb6-43e16b5c89d6)
 
 ### Sync
 
--[TBD]()
+- [Information Architecture & Content Strategy](/assets/ppt/information-architecture-content-strategy.pdf)
+- SVG tutorial (links to be provided)
+
 
 ## Week 11
 Week Commencing: Mar 28
 
-
 ### Async
 
 - [Even More Colour and Type Exercises](/assets/even-more-colour-and-type-exercises.xd)
+- [App Store Product Page](/assets/app-store-product-page.xd)
 - [Gestures](https://web.microsoftstream.com/video/7f6f8c9b-3e37-4844-a7da-2a457f7ec444)
 - [Tabs](https://web.microsoftstream.com/video/2ad76951-9b33-4ea0-8950-fbd75a301791)
 
 ### Sync
 
--[TBD]()
+- [One-on-one meeting: Project Review](https://outlook.office365.com/owa/calendar/IXDOfficeHours1@sheridanc.onmicrosoft.com/bookings/)
 
 ## Week 12
 Week Commencing: Apr 4
@@ -176,10 +177,13 @@ Week Commencing: Apr 4
 - [More Persona + Style Tiles](/assets/more-persona-style-tile.xd)
 - [Local Storage](https://web.microsoftstream.com/video/4cdfeb89-77d4-4ba6-b17e-3acd1a736d53)
 - [Dark mode Storage](https://web.microsoftstream.com/video/aab76f66-e91e-4564-b7be-77987a0cdf16)
+- [Observation Frameworks](/assets/obersvation-frameworks.xd)
 
 ### Sync
 
--[TBD]()
+- [Persuasive Writing]()
+- [Ethnography]()
+
 
 ## Week 13
 Week commencing: Apr 11
@@ -191,7 +195,7 @@ Week commencing: Apr 11
 
 ### Sync
 
--[TBD]()
+- Work Period / Good Friday
 
 ## Week 14
 
