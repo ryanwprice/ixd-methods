@@ -177,7 +177,7 @@ Week Commencing: Apr 4
 - [More Persona + Style Tiles](/assets/more-persona-style-tile.xd)
 - [Local Storage](https://web.microsoftstream.com/video/4cdfeb89-77d4-4ba6-b17e-3acd1a736d53)
 - [Dark mode Storage](https://web.microsoftstream.com/video/aab76f66-e91e-4564-b7be-77987a0cdf16)
-- [Observation Frameworks](/assets/obersvation-frameworks.xd)
+- [Observation Frameworks](/assets/observation-frameworks.xd)
 
 ### Sync
 
