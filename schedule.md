@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 ## Week 01 
-Week commencing: Jan 10
+Week commencing: Jan 9
 
 ### Async
 - [App Analysis](/assets/app-analysis.xd)
@@ -20,7 +20,7 @@ Week commencing: Jan 10
 
 
 ## Week 02
-Week commencing: Jan 17
+Week commencing: Jan 16
 
 ### Async
 
@@ -37,7 +37,7 @@ Week commencing: Jan 17
 - [Reality Check](/assets/reality-check.xd)
 
 ## Week 03
-Week commencing: Jan 24
+Week commencing: Jan 23
 
 ### Async
 
@@ -53,7 +53,7 @@ Week commencing: Jan 24
 - Rocket tutorial (link to be provided)
 
 ## Week 04
-Week commencing: Jan 31
+Week commencing: Jan 30
 
 ### Async
 
@@ -66,7 +66,7 @@ Week commencing: Jan 31
 - [One-on-one meeting: Project Review](https://outlook.office365.com/owa/calendar/IXDOfficeHours1@sheridanc.onmicrosoft.com/bookings/)
 
 ## Week 05
-Week commencing: Feb 7
+Week commencing: Feb 6
 
 **Project 1 Due at the end of class**
 
@@ -81,7 +81,7 @@ Week commencing: Feb 7
 - Work period to complete project. Ryan is on-call via Teams.
 
 ## Week 06
-Week commencing: Feb 14
+Week commencing: Feb 13
 
 ### Async
 
@@ -97,7 +97,7 @@ Week commencing: Feb 14
 
 
 ## Week 07
-Week commencing: Feb 21
+Week commencing: Feb 20
 
 ### Async
 
