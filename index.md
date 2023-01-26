@@ -8,15 +8,17 @@ layout: home
 **Professor:** Ryan Price     
 **Email:** [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca)
 
-**PAL:** Chris Kovacs      
-**Email:** [christopher.kovacs@sheridancollege.ca](mailto:christopher.kovacs@sheridancollege.ca)
+**PAL (Monday):** Joshua Du Plessis      
+**Email:** [joshua.duplessis@sheridancollege.ca](mailto:joshua.duplessis@sheridancollege.ca)
 
+**PAL (Friday):** Trang Do      
+**Email:** [hanhtrang.do@sheridancollege.ca](mailto:hanhtrang.do@sheridancollege.ca)
 
 ## Communication
 
 ### Office Hours
 
-Office hours can be booked on Teams on a first come, first served basis.
+Office hours will occur during class. We have 6 hours each week, which is more than enough time to discuss anything you may need help with.
 
 ### Email
 
