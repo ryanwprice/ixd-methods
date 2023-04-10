@@ -181,8 +181,8 @@ Week Commencing: Apr 4
 
 ### Sync
 
-- [Persuasive Writing]()
-- [Ethnography]()
+- [Persuasive Writing](/assets/ppt/persuasive-writing.pdf)
+- [Ethnography](/assets/ppt/ethnography.pdf)
 
 
 ## Week 13
