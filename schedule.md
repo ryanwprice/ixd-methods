@@ -7,8 +7,7 @@ permalink: /schedule/
 # Week 01 (week of Sept 4)
 
 ## Design Exercises
-- Web Design Analysis
-- Replit
+- [Replit](http://mactech.sheridanc.on.ca/team/mark-galaszkiewicz/replit/)
 
 ## Code
 - [Code Editor & Directory Structure](https://web.microsoftstream.com/video/02eeb6ca-0a87-419f-a2d1-64010060412e)
@@ -20,7 +19,7 @@ permalink: /schedule/
 # Week 02 (week of Sept 11)
 
 ## Design Exercises
-- Web Design Analysis
+- [Web Design Analysis](/assets/web-design-analysis.pdf)
 
 ## Code
 - [First Web Page](https://www.youtube.com/watch?v=3QfIlLJ_w-E)
@@ -35,17 +34,11 @@ permalink: /schedule/
 
 # Week 03 (week of Sept 18)
 ## Design Exercises
-- Spider Diagram
-
-## Code
-- 
-
-## Design Skills
--
+- [Spider Diagram](/assets/Spider%20Diagram.xd)
 
 # Week 04 (week of Sept 25)
 ## Design Exercises
-- Content Analysis
+- [Content Analysis](/assets/Content%20Analysis.xd)
 
 ## Code
 - [Introduction to CSS Grid](https://youtu.be/oHMYnquTzXM)
@@ -57,7 +50,7 @@ permalink: /schedule/
 
 # Week 05 (week of Oct 2)
 ## Design Exercises
-- Colour Exercise
+- [Colour Exercise](/assets/Colour%20Exercise.xd)
 
 ## Code
 - [Create a 12 Column CSS Grid](https://youtu.be/e7V2JKpSy1s)
@@ -72,7 +65,7 @@ permalink: /schedule/
 
 # Week 06 (week of Oct 9)
 ## Design Exercises
-- Colour 2
+- [Colour 2](/assets/Colour%202.xd)
 
 ## Code
 - [Box Model](https://youtu.be/CvhhGi1s1M4)
@@ -86,7 +79,7 @@ permalink: /schedule/
 
 # Week 07  (week of Oct 16)
 ## Design Exercises
-- 12 column grid
+- [12 column grid](/assets/12%20Column%20Grid.xd)
 
 ## Code
 - [Easy navigation CSS transition effects](https://youtu.be/9aoJcgwRJQw)
@@ -102,7 +95,7 @@ _catchup week_
 
 # Week 09 (week of Nov 6)
 ## Design Exercises
-- Hierarchy Exercise
+- [Hierarchy Exercise](/assets/Hierarchy%20Exercise.xd)
 
 ## Code
 - [Responsive image background](https://youtu.be/d5f3bhshO3o)
@@ -117,7 +110,7 @@ _catchup week_
 
 # Week 10 (week of Nov 13)
 ## Design Exercises
-- Imagery Exercise
+- [Imagery Exercise](/assets/Imagery%20Exercise.xd)
 
 ## Code
 - [Choosing Typefaces and Fonts](https://youtu.be/I1YtJuBUpX0)
@@ -130,7 +123,7 @@ _catchup week_
 
 # Week 11 (week of Nov 20)
 ## Design Exercises
-- Find the Grid
+- [Find the Grid](/assets/Find%20The%20Grid.xd)
 
 ## Code
 - [Text Alignment](https://youtu.be/LtVFmEPeH4s)
