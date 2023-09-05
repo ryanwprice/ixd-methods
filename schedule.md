@@ -7,10 +7,12 @@ permalink: /schedule/
 # Week 01 (week of Sept 4)
 
 ## Design Exercises
+- [Web Design Analysis](/assets/Web_Design_Analysis.xd)
 - [Replit](http://mactech.sheridanc.on.ca/team/mark-galaszkiewicz/replit/)
 
 ## Code
-- [Code Editor & Directory Structure](https://web.microsoftstream.com/video/02eeb6ca-0a87-419f-a2d1-64010060412e)
+- [Setting up a Code Editor](https://www.youtube.com/watch?v=SUxkJjgaqN8)
+- [Learn Directory Structures for building Web Sites](https://www.youtube.com/watch?v=nKhbgqdv74c)
 
 ## Design Skills
 - [Cut out a subject in Photoshop](https://www.youtube.com/watch?v=9JwhO9Rec8I)
@@ -19,11 +21,13 @@ permalink: /schedule/
 # Week 02 (week of Sept 11)
 
 ## Design Exercises
-- [Web Design Analysis](/assets/web-design-analysis.pdf)
+- [Navigation Analysis](/assets/Navigation_Analaysis.xd)
+- [Empathy Map & User Analysis](/assets/Empathy%20Map%20+%20User%20Analysis.xd)
+- [User Flow, User Journey, Persona Exercise](/assets/User%20Journey%20+%20User%20Flow%20+%20Persona.xd)
 
 ## Code
 - [First Web Page](https://www.youtube.com/watch?v=3QfIlLJ_w-E)
-- [https://www.youtube.com/watch?v=cTZ63YtJmV4](https://www.youtube.com/watch?v=cTZ63YtJmV4)
+- [Basics of HTML Tags](https://www.youtube.com/watch?v=cTZ63YtJmV4)
 - [Tags with Attributes](https://www.youtube.com/watch?v=rgA-TDMVWgg)
 - [Divs, IDs, & Classes](https://www.youtube.com/watch?v=f-7sXUuHlr4)
 
@@ -35,6 +39,16 @@ permalink: /schedule/
 # Week 03 (week of Sept 18)
 ## Design Exercises
 - [Spider Diagram](/assets/Spider%20Diagram.xd)
+
+## Code
+
+- [Write your First CSS classes ids and tags](https://www.youtube.com/watch?v=RYXjJmMogvc)
+- [HTML5 semantic tags](https://www.youtube.com/watch?v=lJ9qOuGGnXI)
+- [Digital Design process for UX, UI and the web](https://www.youtube.com/watch?v=S19-FE5FBpM)
+- [Finishing Up - Tidying the design](https://www.youtube.com/watch?v=vu2eEbT1CR4)
+
+## Design Skills
+- [Create Wireframe Layouts in Adobe XD](https://youtu.be/C9_LHzaWl-M)
 
 # Week 04 (week of Sept 25)
 ## Design Exercises
@@ -51,6 +65,8 @@ permalink: /schedule/
 # Week 05 (week of Oct 2)
 ## Design Exercises
 - [Colour Exercise](/assets/Colour%20Exercise.xd)
+- [Mood Board](/assets/Mood%20Board.xd)
+- [Card Sorting](/assets/card%20sorting.xd)
 
 ## Code
 - [Create a 12 Column CSS Grid](https://youtu.be/e7V2JKpSy1s)
@@ -91,11 +107,10 @@ permalink: /schedule/
 ## READING WEEK 
 
 # Week 08 (week of Oct 30)
-_catchup week_
-
-# Week 09 (week of Nov 6)
 ## Design Exercises
 - [Hierarchy Exercise](/assets/Hierarchy%20Exercise.xd)
+- [Style Tiles](https://styletil.es/)
+- [Mid fidelity Prototypes](/assets/mid-fidelity-prototype.xd)
 
 ## Code
 - [Responsive image background](https://youtu.be/d5f3bhshO3o)
@@ -104,6 +119,8 @@ _catchup week_
 
 ## Design Skills
 -[Make a Simple Animated GIF](https://youtu.be/H-qRY3kQMLU)
+
+# Week 09 (week of Nov 6)
 
 ## Projects
 - Project 1B due at the end of class
@@ -124,6 +141,7 @@ _catchup week_
 # Week 11 (week of Nov 20)
 ## Design Exercises
 - [Find the Grid](/assets/Find%20The%20Grid.xd)
+- [High Fidelity Prototype](/assets/high-fidelity-prototype.xd)
 
 ## Code
 - [Text Alignment](https://youtu.be/LtVFmEPeH4s)
