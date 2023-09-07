@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="5281" viewBox="0 0 1920 5281">
+  <defs>
+    <clipPath id="clip-Find_The_Grid">
+      <rect width="1920" height="5281"/>
+    </clipPath>
+  </defs>
+  <g id="Find_The_Grid" data-name="Find The Grid" clip-path="url(#clip-Find_The_Grid)">
+    <rect width="1920" height="5281" fill="#fff"/>
+    <text id="Interaction_Design_Methods" data-name="Interaction Design Methods" transform="translate(24 112)" fill="#707070" font-size="32" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">Interaction Design </tspan><tspan y="0" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700">Methods</tspan></text>
+    <text id="Week_11" data-name="Week 11" transform="translate(24 154)" fill="#707070" font-size="32" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">Week </tspan><tspan y="0" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700">11</tspan></text>
+    <text id="Activity_Find_The_Grid" data-name="Activity Find The Grid" transform="translate(24 189)" fill="#707070" font-size="20" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">Activity</tspan><tspan y="0" xml:space="preserve" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"> Find The Grid</tspan></text>
+    <text id="Instructions_Screenshot_3_sites_get_the_whole_site_rom_top_to_bottom_Firefox_and_Opera_have_this_option_built_in_Draw_grid_lines_over_the_top_to_find_the_kind_of_grid_that_is_being_used._Challenge_can_you_draw_the_divs_in_another_colour_Make_this_page_" data-name="Instructions
+Screenshot 3 sites (get the whole site rom top to bottom Firefox and Opera have this option built in)
+Draw grid lines over the top to find the kind of grid that is being used.
+Challenge, can you draw the divs in another colour? Make this page " transform="translate(779 134)" fill="#707070" font-size="20" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Instructions</tspan><tspan font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="24">Screenshot 3 sites (get the whole site rom top to bottom Firefox and Opera have this option built in)</tspan><tspan x="0" y="48">Draw grid lines over the top to find the kind of grid that is being used.</tspan><tspan x="0" y="72">Challenge, can you draw the divs in another colour? Make this page as long as necessary to see all pages.</tspan></tspan></text>
+    <line id="Line_2" data-name="Line 2" x2="1868" transform="translate(26 230)" fill="none" stroke="#707070" stroke-width="1"/>
+  </g>
+</svg>

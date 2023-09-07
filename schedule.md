@@ -7,7 +7,11 @@ permalink: /schedule/
 # Week 01 (week of Sept 4)
 
 ## Design Exercises
+
+### Async
 - [Web Design Analysis](/assets/Web_Design_Analysis.xd)
+
+### Sync
 - [Replit](http://mactech.sheridanc.on.ca/team/mark-galaszkiewicz/replit/)
 
 ## Code
@@ -21,8 +25,11 @@ permalink: /schedule/
 # Week 02 (week of Sept 11)
 
 ## Design Exercises
-- [Navigation Analysis](/assets/Navigation_Analaysis.xd)
-- [Empathy Map & User Analysis](/assets/Empathy%20Map%20+%20User%20Analysis.xd)
+### Async
+- [Web Design Analysis 2](/assets/Week%202/Async/Web%20Design%20Analysis%202.fig)
+
+### Sync
+- [Empathy Map & User Analysis](/assets/Week%202/Sync/Empathy%20Map%20+%20User%20Analysis.fig)
 - [User Flow, User Journey, Persona Exercise](/assets/User%20Journey%20+%20User%20Flow%20+%20Persona.xd)
 
 ## Code
@@ -37,8 +44,12 @@ permalink: /schedule/
 
 
 # Week 03 (week of Sept 18)
+
 ## Design Exercises
-- [Spider Diagram](/assets/Spider%20Diagram.xd)
+### Async
+- [Spider Diagram](/assets/Week%203/Async/Spider%20Diagram%20Content.fig)
+
+- [User Flow, User Journey, Persona Exercise](/assets/Week%203/Sync/User%20Journey%20+%20User%20Flow%20+%20Persona.fig)
 
 ## Code
 
@@ -52,8 +63,10 @@ permalink: /schedule/
 
 # Week 04 (week of Sept 25)
 ## Design Exercises
-- [Content Analysis](/assets/Content%20Analysis.xd)
-
+### Async
+- [Content Analysis](/assets/Week%204/Async/Content%20Analysis.fig)
+### Sync
+- [Layout Exercise](/assets/Week%204/Sync/Layout%20Exercise.fig)
 ## Code
 - [Introduction to CSS Grid](https://youtu.be/oHMYnquTzXM)
 - [Create a Blog Style Layout](https://youtu.be/72nBfqJPr0E)
@@ -64,9 +77,12 @@ permalink: /schedule/
 
 # Week 05 (week of Oct 2)
 ## Design Exercises
-- [Colour Exercise](/assets/Colour%20Exercise.xd)
-- [Mood Board](/assets/Mood%20Board.xd)
-- [Card Sorting](/assets/card%20sorting.xd)
+### Async
+- [Colour Exercise](/assets/Week%205/Async/Colour%20Exercise.fig)
+
+### Sync
+- [Mood Board](/assets/Week%205/Sync/Mood%20Board.fig)
+- [Card Sorting](/assets/Week%205/Sync/Card%20Sorting.fig)
 
 ## Code
 - [Create a 12 Column CSS Grid](https://youtu.be/e7V2JKpSy1s)
@@ -81,7 +97,8 @@ permalink: /schedule/
 
 # Week 06 (week of Oct 9)
 ## Design Exercises
-- [Colour 2](/assets/Colour%202.xd)
+### Async
+- [Colour 2](/assets/Week%206/Async/Colour%20Exercise%202.fig)
 
 ## Code
 - [Box Model](https://youtu.be/CvhhGi1s1M4)
@@ -95,7 +112,8 @@ permalink: /schedule/
 
 # Week 07  (week of Oct 16)
 ## Design Exercises
-- [12 column grid](/assets/12%20Column%20Grid.xd)
+### Async
+- [12 column grid](/assets/Week%207/Async/12%20Column%20Grid%20v2.fig)
 
 ## Code
 - [Easy navigation CSS transition effects](https://youtu.be/9aoJcgwRJQw)
@@ -108,9 +126,9 @@ permalink: /schedule/
 
 # Week 08 (week of Oct 30)
 ## Design Exercises
-- [Hierarchy Exercise](/assets/Hierarchy%20Exercise.xd)
-- [Style Tiles](https://styletil.es/)
-- [Mid fidelity Prototypes](/assets/mid-fidelity-prototype.xd)
+### Async
+- [Hierarchy Exercise](/assets/Week%208/Async/Hierarchy%20Exercise.fig)
+- [Typography & Style Tiles](/assets/Week%208/Sync/Typography%20+%20Stile%20Tile.fig)
 
 ## Code
 - [Responsive image background](https://youtu.be/d5f3bhshO3o)
@@ -127,8 +145,11 @@ permalink: /schedule/
 
 # Week 10 (week of Nov 13)
 ## Design Exercises
-- [Imagery Exercise](/assets/Imagery%20Exercise.xd)
+### Async
+- [Imagery Exercise](/assets/Week%2010/Async/Imagery%20Exercise.fig)
 
+### Sync
+- [Mid-fidelity](/assets/Week%2010/Sync/Mid%20Fidelity%20+%20Breakout.fig)
 ## Code
 - [Choosing Typefaces and Fonts](https://youtu.be/I1YtJuBUpX0)
 - [Font Size and Line Height](https://youtu.be/6Tct753JcyE)
@@ -140,8 +161,10 @@ permalink: /schedule/
 
 # Week 11 (week of Nov 20)
 ## Design Exercises
-- [Find the Grid](/assets/Find%20The%20Grid.xd)
-- [High Fidelity Prototype](/assets/high-fidelity-prototype.xd)
+### Async
+- [Find the Grid](/assets/Week%2011/Async/Find%20the%20Grid.fig)
+### Sync
+- [High Fidelity Prototype](/assets/Week%2011/Sync/High%20Fidelity.fig)
 
 ## Code
 - [Text Alignment](https://youtu.be/LtVFmEPeH4s)
