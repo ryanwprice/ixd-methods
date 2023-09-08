@@ -15,7 +15,6 @@ permalink: /schedule/
 - [Replit](http://mactech.sheridanc.on.ca/team/mark-galaszkiewicz/replit/)
 
 ## Code
-- [Setting up a Code Editor](https://www.youtube.com/watch?v=SUxkJjgaqN8)
 - [Learn Directory Structures for building Web Sites](https://www.youtube.com/watch?v=nKhbgqdv74c)
 
 ## Design Skills
