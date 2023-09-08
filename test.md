@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: test
 permalink: /schedule/
 ---
 
