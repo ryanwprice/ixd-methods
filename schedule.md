@@ -9,7 +9,7 @@ permalink: /schedule/
 ## Design Exercises
 
 ### Async
-- [Web Design Analysis](assets/Week%201/Async/web_design_analysis.fig)
+- [Web Design Analysis](/assets/Week%201/Async/web_design_analysis.fig)
 
 ### Sync
 - [Replit](http://mactech.sheridanc.on.ca/team/mark-galaszkiewicz/replit/)
