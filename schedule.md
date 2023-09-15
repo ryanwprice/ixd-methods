@@ -29,7 +29,7 @@ permalink: /schedule/
 
 ### Sync
 - [Empathy Map & User Analysis](../assets/Week%202/Sync/Empathy%20Map%20+%20User%20Analysis.fig)
-- [User Flow, User Journey, Persona Exercise](../assets/User%20Journey%20+%20User%20Flow%20+%20Persona.xd)
+- [User Flow, User Journey, Persona Exercise](../assets/Week%203/Sync/User%20Journey%20+%20User%20Flow%20+%20Persona.fig)
 
 ## Code
 - [First Web Page](https://www.youtube.com/watch?v=3QfIlLJ_w-E)
@@ -48,7 +48,7 @@ permalink: /schedule/
 ### Async
 - [Spider Diagram](../assets/Week%203/Async/Spider%20Diagram%20Content.fig)
 
-- [User Flow, User Journey, Persona Exercise](../assets/Week%203/Sync/User%20Journey%20+%20User%20Flow%20+%20Persona.fig)
+
 
 ## Code
 
