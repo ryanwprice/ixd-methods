@@ -58,7 +58,7 @@ permalink: /schedule/
 - [Finishing Up - Tidying the design](https://www.youtube.com/watch?v=vu2eEbT1CR4)
 
 ## Design Skills
-- [Create Wireframe Layouts in Adobe XD](https://youtu.be/C9_LHzaWl-M)
+- [Create layout-grids with Figma](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows)
 
 # Week 04 (week of Sept 25)
 ## Design Exercises
