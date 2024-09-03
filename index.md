@@ -5,7 +5,19 @@ layout: home
 **Professor:** Ryan Price     
 **Email:** [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridancollege.ca)
 
-
+**PAL (Thursday)**
+Azuna Ekundayo
+**Email:** 
+**Tutoring:**     
+    
+**PAL (Friday)**
+Trang Do    
+**Email:** [hanhtrang.do@sheridancollege.ca](mailto:hanhtrang.do@sheridancollege.ca)    
+**Tutoring:** [https://sheridan.tutorocean.com/host/hanhtrangd](https://sheridan.tutorocean.com/host/hanhtrangd)    
+    
+**Join your Team**
+**Thursday**: [Join the Thursday @10AM class](https://teams.microsoft.com/l/team/19%3Az9sjxB3XfISpck7wOX5z-woaqEfaxZM8dUJRAPQ3u-01%40thread.tacv2/conversations?groupId=a54bc444-74ef-4c42-9fae-482dc0bb8021&tenantId=465ac757-2131-4711-b9a3-d8278b5c0b14)    
+**Friday**: [Join the Friday @10AM class](https://teams.microsoft.com/l/team/19%3Ak6D5JSYfq0fJLkPTfpsypVaYwiOjK2HYun_YuE5Fcb81%40thread.tacv2/conversations?groupId=55b2073b-6d33-4068-b497-5b25fab83c6d&tenantId=465ac757-2131-4711-b9a3-d8278b5c0b14)    
 
 ## Communication
 
@@ -16,6 +28,13 @@ You can email me at [ryan.price1@sheridancollege.ca](mailto:ryan.price1@sheridan
 I will reply within 24 hours. If you do not get a response within this time, please assume that your email was not delivered and send it again.
 
 Emailing me the night before an assignment deadline is not a good idea, so stay on top of work to make sure you succeed.
+
+### Teams
+MS Teams is the main form of communication for the class. I will post information to our class Team and may message you directly via the Chat.
+
+Most questions can be quickly asked through Teams. I am also more likely to have a faster response time on Teams. Same rule applies: If you do not get a response within 24 hours, please assume that your message was not delivered and try again.
+
+In general, communications will take place during "busioness hours". That means, evening and weekends I am not as likely to reply until the next "business day".
 
 ## Grading
 

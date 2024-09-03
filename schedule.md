@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-# Week 01 (week of Sept 4)
+# Week 01 (week of Sept 2)
 
 ## Design Exercises
 
@@ -12,7 +12,7 @@ permalink: /schedule/
 - [Web Design Analysis](../assets/Week%201/Async/web_design_analysis.fig)
 
 ### Sync
-- [Replit](http://mactech.sheridanc.on.ca/team/mark-galaszkiewicz/replit/)
+- [Phoenix Code](https://phcode.io/#/home)
 
 ## Code
 - [Learn Directory Structures for building Web Sites](https://www.youtube.com/watch?v=nKhbgqdv74c)
@@ -21,7 +21,8 @@ permalink: /schedule/
 - [Cut out a subject in Photoshop](https://www.youtube.com/watch?v=9JwhO9Rec8I)
 - [Photograph Colour Correction with Photoshop](https://youtu.be/89zkw8B_I7I)
 
-# Week 02 (week of Sept 11)
+# Week 02 (week of Sept 9)
+**Club info should be drafted for Project 1**
 
 ## Design Exercises
 ### Async
@@ -42,13 +43,12 @@ permalink: /schedule/
 - [Image Formats for continued editing and saving for the web](https://www.youtube.com/watch?v=Abs8N6b-32M)
 
 
-# Week 03 (week of Sept 18)
+# Week 03 (week of Sept 16)
+**Personas should be drafted for Project 1**
 
 ## Design Exercises
 ### Async
 - [Spider Diagram](../assets/Week%203/Async/Spider%20Diagram%20Content.fig)
-
-
 
 ## Code
 
@@ -60,7 +60,8 @@ permalink: /schedule/
 ## Design Skills
 - [Create layout-grids with Figma](https://help.figma.com/hc/en-us/articles/360040450513-Create-layout-grids-with-grids-columns-and-rows)
 
-# Week 04 (week of Sept 25)
+# Week 04 (week of Sept 23)
+**Site map and User flow should be drafted for Project 1**
 ## Design Exercises
 ### Async
 - [Content Analysis](../assets/Week%204/Async/Content%20Analysis.fig)
@@ -74,7 +75,7 @@ permalink: /schedule/
 ## Design Skills
 - [Wire up a prototype in Adobe XD](https://youtu.be/vB9s0cNzOUA)
 
-# Week 05 (week of Oct 2)
+# Week 05 (week of Sept 30)
 ## Design Exercises
 ### Async
 - [Colour Exercise](../assets/Week%205/Async/Colour%20Exercise.fig)
@@ -94,7 +95,8 @@ permalink: /schedule/
 ## Projects
 - Project 1A Due at the end of class
 
-# Week 06 (week of Oct 9)
+# Week 06 (week of Oct 7)
+**No in-person class this week**
 ## Design Exercises
 ### Async
 - [Colour 2](../assets/Week%206/Async/Colour%20Exercise%202.fig)
@@ -109,7 +111,7 @@ permalink: /schedule/
 - [Adobe XD Organise and Re-use Assets](https://youtu.be/7xyqnl0cUeg)
 
 
-# Week 07  (week of Oct 16)
+# Week 07  (week of Oct 14)
 ## Design Exercises
 ### Async
 - [12 column grid](../assets/Week%207/Async/12%20Column%20Grid%20v2.fig)
@@ -123,7 +125,7 @@ permalink: /schedule/
 
 ## READING WEEK 
 
-# Week 08 (week of Oct 30)
+# Week 08 (week of Oct 28)
 ## Design Exercises
 ### Async
 - [Hierarchy Exercise](../assets/Week%208/Async/Hierarchy%20Exercise.fig)
@@ -137,12 +139,12 @@ permalink: /schedule/
 ## Design Skills
 -[Make a Simple Animated GIF](https://youtu.be/H-qRY3kQMLU)
 
-# Week 09 (week of Nov 6)
+# Week 09 (week of Nov 4)
 
 ## Projects
 - Project 1B due at the end of class
 
-# Week 10 (week of Nov 13)
+# Week 10 (week of Nov 11)
 ## Design Exercises
 ### Async
 - [Imagery Exercise](../assets/Week%2010/Async/Imagery%20Exercise.fig)
@@ -158,7 +160,7 @@ permalink: /schedule/
 - [Introduction to Bezier Curves](https://youtu.be/cwJzRGFb6fA)
 
 
-# Week 11 (week of Nov 20)
+# Week 11 (week of Nov 18)
 ## Design Exercises
 ### Async
 - [Find the Grid](../assets/Week%2011/Async/Find%20the%20Grid.fig)
@@ -170,19 +172,19 @@ permalink: /schedule/
 - [Line Indenting](https://youtu.be/GbdJlljIXzE)
 - [Type hyphenations](https://youtu.be/jTPmLP6c0zo)
 
-# Week 12 (week of Nov 27)
+# Week 12 (week of Nov 25)
 
 ## Code
 - [Typography Drop Caps on the Web](https://youtu.be/76TasNGSN4k)
 - [Text flowing columns on the Web](https://youtu.be/DUhbn_DhIvg)
 - [Responsive Text Scaling](https://youtu.be/zFhZ22nWtN4)
 
-# Week 13 (week of Dec 4)
+# Week 13 (week of Dec 2)
 ## Projects
 - Project 2 due at the end of class
 
 
-# Week 14  (week of Dec 11)
+# Week 14  (week of Dec 9)
 ## Projects
 - Project 3 Due in class
 
