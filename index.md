@@ -15,7 +15,7 @@ Trang Do
 **Email:** [hanhtrang.do@sheridancollege.ca](mailto:hanhtrang.do@sheridancollege.ca)    
 **Tutoring:** [https://sheridan.tutorocean.com/host/hanhtrangd](https://sheridan.tutorocean.com/host/hanhtrangd)    
     
-**Join your Team**
+**Join your Team**    
 **Thursday**: [Join the Thursday @10AM class](https://teams.microsoft.com/l/team/19%3Az9sjxB3XfISpck7wOX5z-woaqEfaxZM8dUJRAPQ3u-01%40thread.tacv2/conversations?groupId=a54bc444-74ef-4c42-9fae-482dc0bb8021&tenantId=465ac757-2131-4711-b9a3-d8278b5c0b14)    
 **Friday**: [Join the Friday @10AM class](https://teams.microsoft.com/l/team/19%3Ak6D5JSYfq0fJLkPTfpsypVaYwiOjK2HYun_YuE5Fcb81%40thread.tacv2/conversations?groupId=55b2073b-6d33-4068-b497-5b25fab83c6d&tenantId=465ac757-2131-4711-b9a3-d8278b5c0b14)    
 
