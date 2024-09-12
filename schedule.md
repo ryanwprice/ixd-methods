@@ -42,6 +42,7 @@ permalink: /schedule/
 ## Sync
 - [Empathy Map & User Analysis](../assets/Week%202/Sync/Empathy%20Map%20+%20User%20Analysis.fig)
 - [User Flow, User Journey, Persona Exercise](../assets/Week%203/Sync/User%20Journey%20+%20User%20Flow%20+%20Persona.fig)
+- [Greenbelt exercise](./assets/greenbelt.zip)
 
 # Week 03 (week of Sept 16)
 **Personas should be drafted for Project 1**
