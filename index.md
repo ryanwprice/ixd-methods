@@ -7,13 +7,13 @@ layout: home
 
 **PAL (Thursday)**
 Azuna Ekundayo
-**Email:** 
-**Tutoring:**     
+**Email:** [ekundaaz@sheridancollege.ca](mailto:ekundaaz@sheridancollege.ca)
+**Tutoring:** [https://sheridan.tutorocean.com/host/Azuna](https://sheridan.tutorocean.com/host/Azuna]    
     
 **PAL (Friday)**
 Trang Do    
 **Email:** [hanhtrang.do@sheridancollege.ca](mailto:hanhtrang.do@sheridancollege.ca)    
-**Tutoring:** [https://sheridan.tutorocean.com/host/hanhtrangd](https://sheridan.tutorocean.com/host/hanhtrangd)    
+**Tutoring:** [https://sheridan.tutorocean.com/host/trangdo](https://sheridan.tutorocean.com/host/trangdo)       
     
 **Join your Team**    
 **Thursday**: [Join the Thursday @10AM class](https://teams.microsoft.com/l/team/19%3Az9sjxB3XfISpck7wOX5z-woaqEfaxZM8dUJRAPQ3u-01%40thread.tacv2/conversations?groupId=a54bc444-74ef-4c42-9fae-482dc0bb8021&tenantId=465ac757-2131-4711-b9a3-d8278b5c0b14)    
