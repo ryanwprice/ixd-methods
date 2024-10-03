@@ -113,6 +113,7 @@ permalink: /schedule/
 
 
 # Week 07  (week of Oct 14)
+**Wireframes should be drafted for Project 1B**
 
 ## Async
 ### Design Exercises
@@ -127,6 +128,7 @@ permalink: /schedule/
 ## READING WEEK 
 
 # Week 08 (week of Oct 28)
+**_At least_ one RWD page should be completed for Project 1B (the more the better)**
 
 ## Async
 ### Design Exercises
