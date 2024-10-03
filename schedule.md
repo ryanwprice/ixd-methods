@@ -73,8 +73,6 @@ permalink: /schedule/
 - [Create a Blog Style Layout](https://youtu.be/72nBfqJPr0E)
 - [CSS Grid Terminology](https://youtu.be/Cduf-ML2H2A)
 
-### Design Skills
-- [Wire up a prototype in Adobe XD](https://youtu.be/vB9s0cNzOUA)
 
 ## Sync
 - [Layout Exercise](../assets/Week%204/Sync/Layout%20Exercise.fig)
@@ -113,8 +111,6 @@ permalink: /schedule/
 - [Navigation Side Panel](https://youtu.be/pbHZG-8_R9w)
 - [Top Navigation Bar](https://youtu.be/MZEdzp1pmWo)
 
-### Design Skills
-- [Adobe XD Organise and Re-use Assets](https://youtu.be/7xyqnl0cUeg)
 
 # Week 07  (week of Oct 14)
 
@@ -127,8 +123,6 @@ permalink: /schedule/
 - [Easy navigation CSS transition effects](https://youtu.be/9aoJcgwRJQw)
 - [Offscreen Navigation](https://youtu.be/9TG2rmyL8ag)
 
-### Design Skills
-- [Creating Simple Icons in Adobe XD](https://youtu.be/g9_1hZFyDX4)
 
 ## READING WEEK 
 
